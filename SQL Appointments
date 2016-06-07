@@ -1,0 +1,1 @@
+I have roughly 200 available appointmets stored in a SQL DB that I want to populate into a calendar using PHP and JS, viewed by month. Can Moment JS be used for something liek this?
